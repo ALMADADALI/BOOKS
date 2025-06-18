@@ -4,19 +4,7 @@ This repository contains the chapter-wise structure for **"The Art of Deception"
 
 The book explores the world of **social engineering**, showcasing the power of manipulation and the vulnerabilities of the human element in cybersecurity.
 
-### 📚 Chapters in the Book:
-
-1. **Introduction: The Human Element**
-2. **Chapter 1: The Con Game**
-3. **Chapter 2: The Art of the Con**
-4. **Chapter 3: The Elements of Deception**
-5. **Chapter 4: Social Engineering: An Art Form**
-6. **Chapter 5: The Psychology of Deception**
-7. **Chapter 6: Case Studies in Deception**
-8. **Chapter 7: The Risks of Deception**
-9. **Chapter 8: Protecting Yourself from Deception**
-10. **Chapter 9: Social Engineering in the Digital Age**
-11. **Chapter 10: The Future of Deception**
+--- 
 
 ### 🧑‍💻 Author: Kevin Mitnick
 
