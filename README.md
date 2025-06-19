@@ -46,7 +46,7 @@ Wanna follow the grind, join the crew, or just vibe with us?
 We everywhere, bro 😎👇
 
 - 🌐 **Website:** [cybermindspace.com](https://cybermindspace.com/)
-- 🎥 **YouTube:** [@cyber_mind_space](https://www.youtube.com/@cybermindspace)
+- 🎥 **YouTube:** [@cyber_mind_space](https://www.youtube.com/@CyberMindSpace)
 - 📢 **Telegram Channel:** [t.me/cybermindspace](https://t.me/cybermindspace)
 - 💬 **Telegram Group:** [Join the Crew](https://t.me/+LJvMwjAE6yA5YWQ1)
 - 📸 **Instagram:** [@cyber_mind_space](https://instagram.com/cyber_mind_space)
