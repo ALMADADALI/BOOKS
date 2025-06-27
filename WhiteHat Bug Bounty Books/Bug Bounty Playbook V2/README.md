@@ -28,5 +28,6 @@ We do **not own** the original material – this is a **community learning versi
 ## 🚀 Getting Started
 
 ```bash
-git clone https://github.com/yourusername/bug-bounty-playbook-v2.git
-cd bug-bounty-playbook-v2
+git clone https://github.com/ALMADADALI/BOOKS.git
+cd WhiteHat Bug Bounty Books
+cd Bug Bounty Playbook V2
